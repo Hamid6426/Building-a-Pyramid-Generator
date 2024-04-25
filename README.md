@@ -1,2 +1,2 @@
 # Building-a-Pyramid-Generator
-A Learning Javascript in FreeCodeCamp Javascript Algorithms and Data Structures
+A "Learning Javascript Project" in FreeCodeCamp "Javascript Algorithms and Data Structures Certification"
